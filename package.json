@@ -1,0 +1,26 @@
+{
+  "name": "k6-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ridzeal/k6-poc.git"
+  },
+  "keywords": [
+    "k6",
+    "poc",
+    "load-test",
+    "test",
+    "testing"
+  ],
+  "author": "Riadhi Aditya <ridzeal@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ridzeal/k6-poc/issues"
+  },
+  "homepage": "https://github.com/ridzeal/k6-poc#readme"
+}
